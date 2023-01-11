@@ -3,7 +3,7 @@ function App() {
     return (
         <Container>
             <Row>
-                <Col>
+                <Col md={{ offset: 3, span: 6 }}>
                     <h1>
                     ToDo App by Seiveright Cargill Dujohn
                     </h1>
