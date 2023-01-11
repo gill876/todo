@@ -4,9 +4,9 @@ function App() {
         <Container>
             <Row>
                 <Col>
-                    <HTMLHeadingElement>
+                    <h1>
                     ToDo App by Seiveright Cargill Dujohn
-                    </HTMLHeadingElement>
+                    </h1>
                 </Col>
             </Row>
             <Row>
